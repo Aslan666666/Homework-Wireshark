@@ -1,22 +1,22 @@
 # Result #
 
 ### Capturing youtube packages image ###
-![](./result/1.PNG)
+![](./result/1.png)
 
 ### Capturing BitTorrent traffic image ###
-![](./result/2.PNG)
+![](./result/2.png)
 
 ### Capturing Telegram Web traffic image ###
-![](./result/3.PNG)
+![](./result/3.png)
 
 ### Capturing Skype Web traffic via the live domain image ###
-![](./result/4.PNG)
+![](./result/4.png)
 
 ### Gmail traffic capture image ###
-![](./result/5.PNG)
+![](./result/5.png)
 
 ### Capturing packets of sending a file to a remote FTP server image ###
-![](./result/6.PNG)
+![](./result/6.png)
 
 ### Package parameter data format image ###
-![](./result/7.PNG)
+![](./result/7.png)
